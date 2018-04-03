@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Public\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.3\c845703de334ddc6b4b3cd26835458cb1cba1f3d\commons-beanutils-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c845703de334ddc6b4b3cd26835458cb1cba1f3d">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-beanutils-1.9.3_d6ffab74e69051fae08ac64fdc751a2df84d2686\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Public\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2.2_889040a290be315c7e3b8d5a3280f78d003cad17\classes.dex" />
+    </item>
+    <item
+        jar="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_03cfa44713c1ebbb75407ac42971e376e1828d80\classes.dex" />
+    </item>
+    <item
+        jar="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_25050f2a1229b3aedc341b6e408a2ed85e21673f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Public\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_0a6128c9a18a9c29883ac4991c048ffe7fc543e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\lab5-assignment-buildings-skeleton\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_7294b0cd74309238f62b2c8aa8698bf49d09a5b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Public\.gradle\caches\modules-2\files-2.1\com.github.davidmarquis\fluent-interface-proxy\1.3.0\519c459c771e2554437649a32b56e27a83ba66dc\fluent-interface-proxy-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="519c459c771e2554437649a32b56e27a83ba66dc">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\fluent-interface-proxy-1.3.0_fda1c18c459067d2f2665f2a1c2865ae5eac5a3c\classes.dex" />
+    </item>
+    <item
+        jar="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_f4c4e5dc558b06cbfb0465187b56a68f23fe2a9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_8cccce36557a4a7eb967d83d51798d9bca4b1d59\classes.dex" />
+    </item>
+    <item
+        jar="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_9134114f04fd72cfecfdf1d5e6018dbbd66bdd70\classes.dex" />
+    </item>
+    <item
+        jar="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_b3b03b6350368605471a1f23a7783cc3a0a54fc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\lab5-assignment-buildings-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_622f696a0122dfe2a8ea6204a070dd4142e146fd\classes.dex" />
+    </item>
+
+</items>
